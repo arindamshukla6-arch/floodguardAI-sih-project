@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.6333,
+  "roc_auc": 0.7034,
+  "precision": 0.6992,
+  "recall": 0.5409,
+  "f1_score": 0.6099,
+  "confusion_matrix": [
+    [
+      416,
+      148
+    ],
+    [
+      292,
+      344
+    ]
+  ],
+  "n_train": 4800,
+  "n_test": 1200,
+  "trained_on": "synthetic_demo_data"
+}

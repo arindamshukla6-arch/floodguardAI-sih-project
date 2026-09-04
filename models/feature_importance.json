@@ -1,0 +1,12 @@
+{
+  "rainfall_24h_mm": 0.1684,
+  "rainfall_1h_mm": 0.1519,
+  "rainfall_6h_mm": 0.1497,
+  "river_level_change_m": 0.1108,
+  "slope_deg": 0.0836,
+  "soil_moisture_pct": 0.0772,
+  "river_level_m": 0.0758,
+  "temperature_c": 0.066,
+  "elevation_m": 0.0594,
+  "humidity_pct": 0.0571
+}
